@@ -218,3 +218,46 @@ body{
     margin-top: 4rem;
     margin-left: 3rem;
   }
+  .text-centre h1{
+    color: #2549d3;
+    font-size: 50px;
+  
+  }
+  .text-centre{
+    text-align: center;
+    margin-top: 4rem;
+  }
+  .text-centre p span{
+    display: block;
+    font-size: 30px;
+  }
+  .fifth{
+    display: flex;
+    justify-content: space-between;
+  }
+  .fifth img{
+    width: 400px;
+  }
+  
+  .text2{
+    display: flex;
+    justify-content: space-around;
+  }
+  .four2{
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  }
+  .view{
+    float: right;
+    margin-top: 3rem;
+  }
+  .view button{
+    background-color: #2549d3;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    border-width: 0px;
+  }
+  .view button a{
+    color: white;
+    text-decoration: none;
+  }
